@@ -11,7 +11,7 @@ License: GPL (>= 2)
 LazyData: TRUE
 Imports: stats, reshape2, dplyr
 Suggests: knitr, rmarkdown, foreach, doRNG, doParallel,
- Biobase, SummarizedExperiment, testthat, methods
+ Biobase, SummarizedExperiment, testthat, methods, BiocStyle
 NeedsCompilation: yes
 RoxygenNote: 7.1.2
 VignetteBuilder: knitr
