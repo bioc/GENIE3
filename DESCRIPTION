@@ -4,7 +4,7 @@ Title: GEne Network Inference with Ensemble of trees
 Version: 1.23.0
 Date: 2022-04-05
 Author: Van Anh Huynh-Thu, Sara Aibar, Pierre Geurts
-Maintainer: Van Anh Huynh-Thu <vahuynh@ulg.ac.be>
+Maintainer: Van Anh Huynh-Thu <vahuynh@uliege.be>
 Description: This package implements the GENIE3 algorithm
  for inferring gene regulatory networks from expression data.
 License: GPL (>= 2)

@@ -1,6 +1,6 @@
 ---
 title: "GENIE3 vignette"
-author: "Van Anh Huynh-Thu (vahuynh@ulg.ac.be)"
+author: "Van Anh Huynh-Thu (vahuynh@uliege.be)"
 date: "`r Sys.Date()`"
 package: "`r pkg_ver('GENIE3')`"
 vignette: >
